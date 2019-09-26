@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/zn/okvis-test/build/CMakeFiles/ceres_external"
+		},
+		{
+			"file" : "/home/zn/okvis-test/build/CMakeFiles/ceres_external.rule"
+		},
+		{
+			"file" : "/home/zn/okvis-test/build/CMakeFiles/ceres_external-complete.rule"
+		},
+		{
+			"file" : "/home/zn/okvis-test/build/ceres/src/ceres_external-stamp/ceres_external-install.rule"
+		},
+		{
+			"file" : "/home/zn/okvis-test/build/ceres/src/ceres_external-stamp/ceres_external-mkdir.rule"
+		},
+		{
+			"file" : "/home/zn/okvis-test/build/ceres/src/ceres_external-stamp/ceres_external-download.rule"
+		},
+		{
+			"file" : "/home/zn/okvis-test/build/ceres/src/ceres_external-stamp/ceres_external-update.rule"
+		},
+		{
+			"file" : "/home/zn/okvis-test/build/ceres/src/ceres_external-stamp/ceres_external-patch.rule"
+		},
+		{
+			"file" : "/home/zn/okvis-test/build/ceres/src/ceres_external-stamp/ceres_external-configure.rule"
+		},
+		{
+			"file" : "/home/zn/okvis-test/build/ceres/src/ceres_external-stamp/ceres_external-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ceres_external"
+		],
+		"name" : "ceres_external"
+	}
+}
